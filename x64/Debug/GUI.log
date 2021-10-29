@@ -1,0 +1,51 @@
+﻿  Program.cpp
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\First HW\Program.cpp(120,70): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\First HW\Program.cpp(120,53): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\First HW\Program.cpp(120,115): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\First HW\Program.cpp(120,98): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\First HW\Program.cpp(124,70): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\First HW\Program.cpp(124,53): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\First HW\Program.cpp(124,115): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\First HW\Program.cpp(124,98): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\First HW\Program.cpp(146,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\First HW\Program.cpp(153,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\First HW\Program.cpp(254,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\First HW\Program.cpp(254,114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\First HW\Program.cpp(254,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\First HW\Program.cpp(256,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\First HW\Program.cpp(256,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\First HW\Program.cpp(256,144): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\First HW\Program.cpp(256,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GUI.vcxproj -> C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\First HW\x64\Debug\GUI.exe
